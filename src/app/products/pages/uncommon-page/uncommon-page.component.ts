@@ -25,7 +25,7 @@ export class UncommonPageComponent {
   }
 
   // i18n Plural
-  public clients: string[] = ['Leti','Raúl','Carlos','Meli'];
+  public clients: string[] = ['Leti','Raúl','Carlos','Meli','Manuel','Jimena','Cristina'];
   public clientsMap = {
     '=0': 'no tenemos ningún cliente esperando.',
     '=1': 'tenemos un cliente esperando.',
